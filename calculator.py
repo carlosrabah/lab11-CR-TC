@@ -1,3 +1,7 @@
+#https://github.com/carlosrabah/lab11-CR-TC.git
+#Partner 1: Carlos Rabah
+#Partner 2: Tyler Jin Choe
+
 import math
 
 def square_root(a):
